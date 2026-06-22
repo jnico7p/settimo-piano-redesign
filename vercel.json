@@ -1,0 +1,35 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/sales",
+      "destination": "https://settimo-piano.com/servizi/sales/",
+      "permanent": true
+    },
+    {
+      "source": "/servizi/sales",
+      "destination": "https://settimo-piano.com/servizi/sales/",
+      "permanent": true
+    },
+    {
+      "source": "/field-marketing",
+      "destination": "https://settimo-piano.com/servizi/field-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/servizi/field-marketing",
+      "destination": "https://settimo-piano.com/servizi/field-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/retail",
+      "destination": "https://settimo-piano.com/servizi/retail/",
+      "permanent": true
+    },
+    {
+      "source": "/servizi/retail",
+      "destination": "https://settimo-piano.com/servizi/retail/",
+      "permanent": true
+    }
+  ]
+}
