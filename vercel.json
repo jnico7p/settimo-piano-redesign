@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/sales",
-      "destination": "https://settimo-piano.com/servizi/sales/",
+      "destination": "https://settimo-piano.com/sales/",
       "permanent": true
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "source": "/field-marketing",
-      "destination": "https://settimo-piano.com/servizi/field-marketing/",
+      "destination": "https://settimo-piano.com/field-marketing/",
       "permanent": true
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "source": "/retail",
-      "destination": "https://settimo-piano.com/servizi/retail/",
+      "destination": "https://settimo-piano.com/retail/",
       "permanent": true
     },
     {
